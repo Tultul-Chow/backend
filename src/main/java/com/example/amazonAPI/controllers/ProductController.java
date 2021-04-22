@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collections;
 
-@CrossOrigin(origins ="https://serene-temple-92942.herokuapp.com")
+@CrossOrigin(origins ="https://amazonclonefinalapp.herokuapp.com")
 @RestController
 public class ProductController
 {
